@@ -6,7 +6,7 @@ Which channels deserve further budget experiments?
 
 A marketing team compares platform totals without consistent cost and attribution definitions. This beginner portfolio case study contains an original dataset, executable Python and SQL, a notebook with saved outputs and an offline dashboard. 
 
-**Data status:** Synthetic. **Observation period:** Fictional 2025. **Author:** .
+**Data status:** Synthetic. **Observation period:** Fictional 2025.
 
 ## Problem statement
 
